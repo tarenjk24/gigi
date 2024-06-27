@@ -74,8 +74,8 @@
     <div class="box0" data-toggle="tooltip" title="mail section">
       <div class="mail">Get my newest updates!</div>
       <div class="container">
-       <input type="text" placeholder="Email address" name="mail" required>
-       <button class="btun btn-lg btn-primary btn-block" type="submit">Submit</button>
+       <input type="text" placeholder="Email address" name="mail"  id="emailInput" >
+       <button class="btun btn-lg btn-primary btn-block" type="submit" onclick="logEmail()" >Submit</button>
       </div>
     </div>
    </div>
@@ -138,6 +138,10 @@
    function closeNav() {
     document.getElementById("mySidebar").style.width = "0";
     document.getElementById("main").style.marginLeft = "0";
+   }
+   function logEmail() {
+    const email = document.getElementById('emailInput').value;
+    console.log(`Email entered: ${email}`);
    }
   </script>
  </body>
