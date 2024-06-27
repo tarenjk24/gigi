@@ -1,4 +1,8 @@
 # Gigi's blog ✨
+<p align="center">
+  <img src="/static/img/logo/icon01.png" alt="alt text">
+</p>
+
 ---
 Welcome to this Blog. This site is designed to provide you with Gigi's the latest podcasts, articles, and more. Here's what you can find on our site:
 
