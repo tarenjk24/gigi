@@ -27,5 +27,7 @@ This page features written content related to our podcasts. This includes episod
 Learn more about the team behind the podcast. This page includes history, mission, and team member.
 ---
 [![facebook](https://img.shields.io/badge/facebook-000000?style=for-the-badge&logo=facebook&logoColor=#d16c06)](https://www.facebook.com/hej.er.1401)
- 
+[![instagram](https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=#d16c06)]( https://www.instagram.com/he.j.er/)
+
+
 
